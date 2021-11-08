@@ -2,7 +2,7 @@
 Twinkle is an open-source text editor that supports the DES encryption algorithm</br>
 ![image text](https://github.com/Northstrix/Twinkle/blob/main/Twinkle.png)
 </br>Credit:</br>
-Implementation of DES by David Simmons was taken from here https://github.com/simmons/desdemo</br></br>
+Implementation of DES by David Simmons was taken from here https://github.com/simmons/desdemo</br>
 <p>
 /*</br>
  * Copyright 2011 David Simmons</br>
