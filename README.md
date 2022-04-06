@@ -1,5 +1,5 @@
 # Twinkle
-Twinkle is an open-source text editor that supports the Data Encryption Standard.</br>
+Twinkle is an open-source text editor.</br>
 ![image text](https://github.com/Northstrix/Twinkle/blob/main/Twinkle.png)
 </br>Credit:</br>
 Implementation of DES by David Simmons was taken from here https://github.com/simmons/desdemo</br>
