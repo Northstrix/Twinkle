@@ -1,6 +1,7 @@
 # Twinkle
 Twinkle is an open-source text editor.</br>
-![image text](https://github.com/Northstrix/Twinkle/blob/main/Twinkle%20DES%2BAES.png)
+![image text](https://github.com/Northstrix/Twinkle/blob/main/Twinkle%20DES%20%2B%20AES%20edition/Twinkle%20DES%20%2B%20AES%20en.png)
+![image text](https://github.com/Northstrix/Twinkle/blob/main/Twinkle%20DES%20%2B%20AES%20edition/Twinkle%20DES%20%2B%20AES%20de.png)
 </br>Credit:</br>
 Implementation of DES by David Simmons was taken from here https://github.com/simmons/desdemo</br>
 <p>
