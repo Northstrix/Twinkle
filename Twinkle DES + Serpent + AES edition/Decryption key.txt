@@ -1,0 +1,1 @@
+0123456789ABCDEF,These 32 chars r key for Serpent,This is the key for the AES it can be as long as you wish
